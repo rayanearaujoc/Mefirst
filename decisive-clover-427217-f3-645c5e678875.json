@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "decisive-clover-427217-f3",
+  "private_key_id": "645c5e678875b7fca105dcdeccbe887df8c2ef96",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyW+3zmJO+8wjA\nGO56sCuKiKLQkC7Upk5JEA/mUwcYkJNJLpK1kLtuSDYn2ag9X2ykW0nY6HNpmDFt\n23owH6MMhi0HdIMfDIcO8A2o4XVy1MnKu28FMEJu0gZe1HQ2gXU469Xhg7OwJYbC\nb8uurUFAHt03K4vfZpGeQLXQTPvU7Efg8rFYv1MwB9Vvph5nMpSWdrgp2+52kBWV\nLynwcL29PshZDDVw6jaG4xAILx15u4IguGYs/YM6iYifVBFHGHZRDWhowVb4rUDu\n0EstGJAo+djKrrFQC+UnT2O5hzkWaXuW3OkYEiiuAGFp7r6bzVNi2lQLTdI19uMb\niDgNzMuxAgMBAAECggEAGab2oYEpiL5YHRbI39zsGjveHNyL27pCiqgUfVYmMF6E\nzHL2F0aGao1YuqEHnTIXBEl75MZD6SVCQLBfEcJPF0tJ+SdE/4dz+k5EzKwGkhow\nHqgYBtlCyMEMuQFZ6If0hdgHdiyUwKoZCGh/VTNmbdQykU+CScJtAaOBcsDLvHr0\nkYwpIVzLDwX2rhbSCE96JB2AJe7S3HhqTEyWrRDhi5UcSN6i/kD1bOIWKzJlZK4H\n8Ly/cAxNGCUv6Ag3EYrfqWs4t5KaMLHh8oif1x2hxbV7GMeYafOB7wMfttxwauIn\nU8ZarbhY3HbDjMliA64z93isNiZD+CxlhwDfSPasRQKBgQDm/qVST933pcMERdMy\nnsFza4tWgcMWkN7uOOLh8KBpZeqTGnQjqGMl1IY/r9JtLXiZ1Ai4WYiTTEbgBnAY\n7WOJY3k2JvdDbsZBTtVwPNCmXa4YOiWjyDnrmsb/d4w+uqmeOFjKSviN3wxwglYg\neGBd5Y2NFkqO8jxso8LOtxYiDQKBgQDFqqOcodM628R7cjRP7H7+8am/9Os6P3Xw\nPbLszL7NOszgBl5wv/51/+xildmIRPGivkNEPB+huBwojBFfG9T0aolqwuy+ySX8\nE3lt64kXt/cGtD69IwF5LamfQXQRhgq5fIlBN5sZhSLpy1TjEV2HPKf7J+yTDfE9\nAe9aCen7NQKBgQC6ScEgCcMT9n25E2rI1xliMOgVYt7ncvwmmH/5AOsNNSEhc2MY\nYrNbDfMap3wHinVJcaN6sNIhIJHEF80NfV0ZrrxRPMmKe2qtvpsJQjJvCPvfE/3J\nATAc3xz/Z/UVncovDHgm5KFhIPHSRnqZAxuMfhVTJBgLAjZS0xrHRQY3fQKBgQCX\nc2Uk0ADuahCjnR9j1YqAgF1VzKym1pTg3AVJ1p6i1NjBFWAq95BajRprdvFTra+O\nyET19TMvT8eTca6ltsd19mMPwAZxL+HAwJMbm4pQ+A13v4cKl9W7KTd75ESwYIm7\nESaBJ7/Yz9+uTrLdwCJvShRTJYXoLpiV6/Oeg1YZuQKBgGPd0FzqPgugdtJXn0l8\nwBL3HPMHbck5cG+i7j/lSF+tOWloeltkSbCv1jctZf/ndS5nU8uXWwsrVIE2EVix\nTHi6keL1u/BFkXSixlsvFZpuKMTZBj67Di7LnsOo99/D5CfHh7lRsaaihpc1aDW3\nvPn+vkF2OE2idOTo9cMvGt+t\n-----END PRIVATE KEY-----\n",
+  "client_email": "mindflow@decisive-clover-427217-f3.iam.gserviceaccount.com",
+  "client_id": "100469572676741925306",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mindflow%40decisive-clover-427217-f3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
